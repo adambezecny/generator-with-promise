@@ -1,0 +1,12 @@
+{
+  "name": "generator-with-promise",
+  "version": "1.0.0",
+  "description": "Simple app demonstrating usage of ES6 generator with promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node index.js"
+  },
+  "author": "Adam Bezecny",
+  "license": "ISC"
+}
